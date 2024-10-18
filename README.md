@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-[![Notion Badge](https://poised-party-c87.notion.site/ea5717ded4d5437dad91551a667cfaa9?pvs=4)
+[![Notion Badge](https://poised-party-c87.notion.site/ea5717ded4d5437dad91551a667cfaa9?pvs=4)]
 
 [![simeunseok's github stats](https://github-readme-stats.vercel.app/api?username=simeunseok)](https://github.com/anuraghazra/github-readme-stats)
